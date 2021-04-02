@@ -14,6 +14,12 @@
       <h2 class="text-center">Now you are with Samad</h2>
 	  <h2 class="text-center">AWS</h2>
 	  <h2 class="text-center">AWS-jenkins-maven-tomcat-autodeploy</h2>
+	  <form action="/button-type"> <button type="button" onclick="alert('This button does nothing.')">Click me for no reason!</button>
+	  <br><br> <label for="name">Name</label><br> <input name="name"><br><br> 
+	  <button type="reset">Reset the form!</button><br><br> 
+	  <button type="submit" disabled>Submit (disabled)</button> </form>
+
+Read more: https://html.com/attributes/button-type/#ixzz6qsQ8fQmv
   </div>
 </body>
 </html>
